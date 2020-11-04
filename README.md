@@ -29,6 +29,8 @@ Development tool for Shopify using webpack and themekit.
 1. Install dependencies - `npm install`
 
 2. Start webpack compiler - `npm run start`
+  a. This will immediately build and deploy local files to whatever theme ID is added to `config.js`. Be aware.
+  b. Use `npm run watch` if the theme is already on the store.
 
 `npm run deploy`
 

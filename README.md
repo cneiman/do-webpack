@@ -1,10 +1,5 @@
 ## Shopify ThemeKit - Webpack
-![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/hayes0724/shopify-webpack-themekit)
-[![GitHub issues](https://img.shields.io/github/issues/hayes0724/shopify-webpack-themekit.svg)](https://GitHub.com/hayes0724/shopify-webpack-themekit/issues/)
-[![GitHub license](https://img.shields.io/github/license/hayes0724/shopify-webpack-themekit.svg)](https://github.com/hayes0724/shopify-webpack-themekit/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/hayes0724/shopify-webpack-themekit.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/hayes0724/shopify-webpack-themekit/stargazers/)
-[![GitHub forks](https://img.shields.io/github/forks/hayes0724/shopify-webpack-themekit.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/hayes0724/shopify-webpack-themekit/network/)
-
+Fork of [hayes0724/shopify-wepback-themekit](https://GitHub.com/hayes0724/shopify-webpack-themekit)
 
 Development tool for Shopify using webpack and themekit.
 
@@ -17,6 +12,7 @@ Check out the node package version: [Shopify Packer](https://github.com/hayes072
 
 ### Features
 * Ready to use [blank starter theme](https://github.com/hayes0724/packer-blank-theme)
+* Tailwindcss
 * Webpack 4
 * Stylelint
 * ESLint

@@ -3,8 +3,6 @@ Fork of [hayes0724/shopify-wepback-themekit](https://GitHub.com/hayes0724/shopif
 
 Development tool for Shopify using webpack and themekit.
 
-Check out the node package version: [Shopify Packer](https://github.com/hayes0724/shopify-packer)
-
 1. [Requirements](#requirements)
 2. [Getting Started](#getting-started)
 3. [Theme files](#theme-files)

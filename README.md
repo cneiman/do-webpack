@@ -32,8 +32,6 @@ Development tool for Shopify using webpack and themekit.
   - This will immediately build and deploy local files to whatever theme ID is added to `config.js`. Be aware.
   - Use `npm run watch` if the theme is already on the store.
 
-`npm run deploy`
-
 ## Theme files
 
 Webpack will create the following snippets that load all style and script chunks. You need to include this in your theme.liquid file.
